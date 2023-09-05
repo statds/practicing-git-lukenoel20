@@ -39,3 +39,5 @@ Learn how to launch and grow your open source project with the Open Source Guide
 NEW LINE ADDED BY LUKE
 
 CHANGE MADE ON GITHUB
+
+NEW LINE ADDED IN NEW_BRANCH
